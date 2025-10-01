@@ -1,1 +1,1 @@
-# ml-projects
+# ml-zoomcamp-homework
